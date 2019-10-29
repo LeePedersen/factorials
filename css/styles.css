@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: red;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-family: monospace;
+}
+
+#formStyle {
+  text-align: center;
+}
+
+#result {
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+  padding-top: 30px;
+}
+
+h1 {
+  font-size: 80px;
+}
